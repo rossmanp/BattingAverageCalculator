@@ -1,0 +1,6 @@
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\bin\Debug\GC_Lab8_BattingAverageCalculator.exe.config
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\bin\Debug\GC_Lab8_BattingAverageCalculator.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\bin\Debug\GC_Lab8_BattingAverageCalculator.pdb
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\obj\Debug\GC_Lab8_BattingAverageCalculator.csprojResolveAssemblyReference.cache
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\obj\Debug\GC_Lab8_BattingAverageCalculator.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_Lab8_BattingAverageCalculator\GC_Lab8_BattingAverageCalculator\obj\Debug\GC_Lab8_BattingAverageCalculator.pdb
